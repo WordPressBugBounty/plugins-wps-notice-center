@@ -3,11 +3,11 @@
 Plugin Name: WPS Notice Center
 Description:  WPS Notice Center permet de masquer l'ensemble des notices d'administration et les réunir dans une seul notice à déplier. Profitez pleinement de votre interface WordPress sans pollution visuel.
 Donate Link: https://www.paypal.me/donateWPServeur
-Version: 1.2.8
+Version: 1.2.8.1
 Author: WPServeur, NicolasKulka, wpformation, benoti
 Author URI: https://wpserveur.net
 Domain Path: languages
-Tested up to: 6.5
+Tested up to: 6.8
 Requires PHP: 7.0
 Text Domain: wps-notice-center
 License: GPLv2 or later
@@ -20,7 +20,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 
 // Plugin constants
-define( 'WPS_NOTICE_CENTER_VERSION', '1.2.8' );
+define( 'WPS_NOTICE_CENTER_VERSION', '1.2.8.1' );
 define( 'WPS_NOTICE_CENTER_FOLDER', 'wps-notice-center' );
 define( 'WPS_NOTICE_CENTER_BASENAME', plugin_basename( __FILE__ ) );
 

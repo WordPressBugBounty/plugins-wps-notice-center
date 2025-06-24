@@ -3,9 +3,9 @@ Contributors: WPServeur, NicolasKulka, wpformation, benoti
 Donate link: https://www.paypal.me/donateWPServeur
 Tags: hide, admin, notice, nags, disable, ux, hide admin notices, hide updates nags, hide nags, disable notices, disable update nags, disable nags, disable admin notices, wps-notice-center, jetpack, wpserveur
 Requires at least: 4.2
-Tested up to: 6.5
+Tested up to: 6.8
 Requires PHP: 7.0
-Stable tag: 1.2.8
+Stable tag: 1.2.8.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -65,6 +65,9 @@ This plugin is only maintained, which means we do not guarantee free support. Co
 1. Before / After WPS Notice Center
 
 == Changelog ==
+
+= 1.2.8.1 =
+* Tested up to 6.8
 
 = 1.2.8 =
 * Add pub WPBoutik

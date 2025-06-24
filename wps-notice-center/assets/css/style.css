@@ -13,6 +13,7 @@
     width: 100%;
     height: 43px;
     background: transparent;
+    border-radius: unset !important;
 }
 .wps-notice-center button.handlediv:hover,
 .wps-notice-center button.handlediv:focus {
